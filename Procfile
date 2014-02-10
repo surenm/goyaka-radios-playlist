@@ -1,0 +1,1 @@
+default: ruby main.rb
